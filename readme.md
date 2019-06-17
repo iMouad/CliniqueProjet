@@ -5,12 +5,12 @@
 <p>Un petit système réalisé en PHP Laravel 5.8, HTML, CSS et AJAX pour la gestion des dossiers médicaux d'un clinique de néphrologie et d'hémodialyse, </p>
 <p> il a comme fonctionnalités : </p>
 Gestion des patients : </br>
-  *Ajout/Modification/Suppression des patients et leurs informations et les dates de consultation et de contrôle. *</br>
-  *Dossier médical de chaque patient qui contient l'échographie rénale, le traitement et le bilan.*</br>
+  Ajout/Modification/Suppression des patients et leurs informations et les dates de consultation et de contrôle.</br>
+  Dossier médical de chaque patient qui contient l'échographie rénale, le traitement et le bilan.</br>
 Gestion des numéros :</br>
-  *Ajout/Modification/Suppression des numéros de téléphone dont le clinique a besoin.*</br>
+  Ajout/Modification/Suppression des numéros de téléphone dont le clinique a besoin.</br>
 Gestion des administrateurs :</br>
-  *Ajout/Modification des administrateurs de l'application.*
+  Ajout/Modification des administrateurs de l'application.
   
   
   ## About Laravel
