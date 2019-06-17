@@ -1,8 +1,19 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
+## à propos l'application
 
-
-## About Laravel
+<p>Un petit système réalisé en PHP Laravel 5.8, HTML, CSS et AJAX pour la gestion des dossiers médicaux d'un clinique de néphrologie et d'hémodialyse, </p>
+<p> il a comme fonctionnalités : </p>
+Gestion des patients : </br>
+  *Ajout/Modification/Suppression des patients et leurs informations et les dates de consultation et de contrôle. *</br>
+  *Dossier médical de chaque patient qui contient l'échographie rénale, le traitement et le bilan.*</br>
+Gestion des numéros :</br>
+  *Ajout/Modification/Suppression des numéros de téléphone dont le clinique a besoin.*</br>
+Gestion des administrateurs :</br>
+  *Ajout/Modification des administrateurs de l'application.*
+  
+  
+  ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -15,14 +26,3 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## à propos l'application
-
-Un petit système réalisé en PHP Laravel 5.8, HTML, CSS et AJAX pour la gestion des dossiers médicaux d'un clinique de néphrologie et d'hémodialyse, il a comme fonctionnalités :
--Gestion des patients :
-*Ajout/Modification/Suppression des patients et leurs informations et les dates de consultation et de contrôle.
-*Dossier médical de chaque patient qui contient l'échographie rénale, le traitement et le bilan.
--Gestion des numéros :
-*Ajout/Modification/Suppression des numéros de téléphone dont le clinique a besoin.
--Gestion des administrateurs
-*Ajout/Modification des administrateurs de l'application.
